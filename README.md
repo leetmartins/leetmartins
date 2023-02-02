@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a UFABC student...
+I'm an UFABC student...
 <!--
 **leetmartins/leetmartins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
